@@ -1,0 +1,29 @@
+{
+  "name": "maze",
+  "version": "1.0.0",
+  "description": "maze solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omarqx/maze.git"
+  },
+  "keywords": [
+    "maze"
+  ],
+  "author": "omar qaddoumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarqx/maze/issues"
+  },
+  "homepage": "https://github.com/omarqx/maze#readme",
+  "dependencies": {
+    "d3": "^4.11.0",
+    "ts-loader": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^4.11.1"
+  }
+}
